@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @hacker-prime
 - 👀 I’m interested in ...software development.
 - 🌱 I’m currently learning ...full-stack web development.
-- 💞️ I’m looking to collaborate on ...php projects and automation with Python.
+- 💞️ I’m looking to collaborate on ...PHP projects and automation with Python.
 - 📫 How to reach me ...hacker0prime@gmail.com.
 
 <!---
